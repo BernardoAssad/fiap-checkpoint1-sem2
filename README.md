@@ -8,3 +8,8 @@ Trabalho desenvolvido por:
 
 - Bernardo Assad | 94532
 - Henry Pinheiro | 93465
+
+  Repositórios:
+
+- Bernardo Assad | https://github.com/BernardoAssad/fiap-checkpoint1-sem2
+- Henry Pinheiro | https://github.com/HenryPinheiro/fiap-checkpoint1-sem2
